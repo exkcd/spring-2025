@@ -6,12 +6,14 @@ In the past I've used Notion to organize all my notes, but with my classes becom
 
 The folder organization could be better, but it's laid out as follows:
 
-`slides` will hold most of the instructor notes that are either posted on Canvas or lectured on during class.
+`class` will hold most of the instructor notes that are either posted on Canvas or lectured on during class.
 
-`lec` contains all of my written notes I've taken during lecture times.
+`notes` contains all of my written notes I've taken during lecture times.
 
 `rec` holds all recitation materials.
 
 `extra` is a special folder located in the `ppl` folder which contains further readings which are Jupyter Notebooks from past years.
 
 `hw` is another special folder located in the `ppl` folder which contains all homework assignments done in the class throughout the semester.
+
+`review` contains all exam review materials.
