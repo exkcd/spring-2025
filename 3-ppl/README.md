@@ -14,3 +14,12 @@ We will dissect programming languages by constructing interpreters. The semester
 Incoming students often expect this course to be what we will call a trip to the Zoo of Programming Languages. While it is certainly interesting to go to the zoo, we seek a more informative and scientific study of the underlying principles. A more apt analogy is an anatomy course where we will study the "guts" and inner-workings of programming languages. After this course, such an anatomical study will enable us to compare and contrast programming languages in a substantive manner and address the learning goals outlined above.
 
 The course covers many aspects of using, understanding, and reasoning about programming languages (e.g., syntax, scoping, induction, data types, and typing). We will build up a set of mathematical tools for careful discourse. A significant part is devoted to abstraction, that is, how languages help programming in the large (e.g., subtyping polymorphism, parametric polymorphism, modules, and objects).
+
+## Folder design
+
+`class`: In-class lecture slides
+`extra`: An in-depth look at the topics covered per lecture
+`hw`: Hosts all assignments given in this class
+`notes`: Handwritten notes taken during class
+`review`: A summary of the topis covered on the exam
+`rec`: Recitation materials and review

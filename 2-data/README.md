@@ -19,3 +19,10 @@ The primary learning objectives of CSCI 3022 are:
 (5) modeling & prediction - using simple linear regression, multiple linear regression and logistic regression models to facilitate predictions and inferences in data analysis.
 
 (6) professional communication – summarizing and interpreting results utilizing mathematical reasoning, written explanations and visualization appropriate for a professional environment; communicating with course staff and fellow students in a professional manner.
+
+
+## Folder design
+
+`class`: In-class lecture slides
+`notes`: Personal notes taken during class
+`review`: Exam review materials
