@@ -4,5 +4,4 @@ Introduces the practice and research of human-computer interaction, including it
 
 ## Folder design
 
-`class`: In class lecture notes
 `rec`: Reciation readings we cover every week

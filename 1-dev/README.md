@@ -6,4 +6,3 @@ This course covers technology tools and methods for software development with a 
 
 `class`: Lecture notes from class
 `lab`: Slides from weekly lab assignments
-`notes`: Personal notes from in-class lectures.
