@@ -4,4 +4,4 @@ Introduces the practice and research of human-computer interaction, including it
 
 ## Folder design
 
-`rec`: Reciation readings we cover every week
+* `rec`: Reciation readings we cover every week

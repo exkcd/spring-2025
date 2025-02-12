@@ -17,9 +17,7 @@ The course covers many aspects of using, understanding, and reasoning about prog
 
 ## Folder design
 
-`class`: In-class lecture slides
-`extra`: An in-depth look at the topics covered per lecture
-`hw`: Hosts all assignments given in this class
-`notes`: Handwritten notes taken during class
-`review`: A summary of the topis covered on the exam
-`rec`: Recitation materials and review
+* `class`: In-class lecture slides
+* `extra`: An in-depth look at the topics covered per lecture
+* `hw`: Hosts all assignments given in this class
+* `rec`: Recitation materials and review

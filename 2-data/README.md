@@ -23,6 +23,5 @@ The primary learning objectives of CSCI 3022 are:
 
 ## Folder design
 
-`class`: In-class lecture slides
-`notes`: Personal notes taken during class
-`review`: Exam review materials
+* `class`: In-class lecture slides
+* `notes`: Notes taken during lecture times

@@ -4,5 +4,5 @@ This course covers technology tools and methods for software development with a 
 
 ## Folder design
 
-`class`: Lecture notes from class
-`lab`: Slides from weekly lab assignments
+* `class`: Lecture notes from class
+* `lab`: Slides from weekly lab assignments
