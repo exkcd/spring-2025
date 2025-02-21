@@ -2,3 +2,8 @@
 .DS_Store
 .ipynb_checkpoints
 .vscode
+.bloop
+.bsp
+.metals
+target/
+project/
