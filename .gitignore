@@ -4,6 +4,7 @@
 .vscode
 .bloop
 .bsp
+.scala-build
 .metals
 target/
 project/
